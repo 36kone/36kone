@@ -1,5 +1,5 @@
 # **Caio Herrera**
-Tenho 19 anos e sou um desenvolvedor back-end. Desde que comecei minha jornada na programação, venho me aprofundando em tecnologias como Python, FastAPI, Docker e PostgreSQL.
+Tenho 20 anos e sou um desenvolvedor back-end. Desde que comecei minha jornada na programação, venho me aprofundando em tecnologias como Python, FastAPI, GoLang, Flutterm, Docker e PostgreSQL.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="30" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30"/> 
