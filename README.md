@@ -6,7 +6,7 @@ Tenho 20 anos e sou um desenvolvedor back-end. Sou especializado em Python, Go, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30"/>
 
-## Contatos:
+## Contats:
 
 <div>
 <a href="https://instagram.com/36herrera" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
