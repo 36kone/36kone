@@ -1,24 +1,53 @@
-# **Caio Herrera**
-Tenho 20 anos e sou um desenvolvedor back-end. Sou especializado em Python, Go, Flutter, Docker e PostgreSQL.
+### Hey there
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30"/>
+I'm Caio, a Backend Software Engineer focused on building reliable APIs, scalable services, and well-structured systems.
 
-## Contatos:
+I primarily work with **Go** and **Python**, developing RESTful APIs, background workers, and asynchronous systems.  
+I also have experience across different layers of the stack, which helps me better understand system design and product requirements as a whole.
 
-<div>
-<a href="https://instagram.com/36herrera" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:caioherrera36@gmail.com">
-  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/36caioherrera" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
-</div>
+Most of my work is built from scratch, with an emphasis on performance, maintainability, and clean architecture.
 
-<div>
-<a href="https://github.com/36kone">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=36kone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=36kone&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### Tools & Technologies
 
+**Backend**
+- Go (Gin)
+- Python (FastAPI, Flask)
+- Node.js / TypeScript (NestJS)
+
+**Databases**
+- PostgreSQL
+- MySQL
+
+**Messaging & Async**
+- RabbitMQ
+
+**Frontend**
+- React
+- Angular
+
+**Mobile**
+- Flutter
+
+**Infrastructure & Environment**
+- Docker
+- Kubernetes (containerized workloads and orchestration)
+- Linux (daily driver)
+
+---
+
+### A Bit About Me
+
+- Backend-oriented engineer with a strong systems mindset  
+- Comfortable working close to infrastructure and databases  
+- Prefer simple, well-structured solutions over overengineering  
+- Clear and maintainable code
+- Thoughtful system design
+- Pragmatic solutions over unnecessary complexity
+
+---
+
+### Contact
+
+- Email: caioherrera36@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/36caioherrera  
+- Instagram: https://instagram.com/36herrera  
