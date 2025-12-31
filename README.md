@@ -35,17 +35,6 @@ Most of my work is built from scratch, with an emphasis on performance, maintain
 
 ---
 
-### A Bit About Me
-
-- Backend-oriented engineer with a strong systems mindset  
-- Comfortable working close to infrastructure and databases  
-- Prefer simple, well-structured solutions over overengineering  
-- Clear and maintainable code
-- Thoughtful system design
-- Pragmatic solutions over unnecessary complexity
-
----
-
 ### Contact
 
 - Email: caioherrera36@gmail.com  
